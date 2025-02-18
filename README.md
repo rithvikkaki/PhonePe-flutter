@@ -1,4 +1,4 @@
-# PhonePay
+# PhonePe
 
 A new Flutter project.
 
